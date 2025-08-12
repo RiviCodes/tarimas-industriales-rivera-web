@@ -27,6 +27,7 @@ Actualmente **en desarrollo** con actualizaciones constantes para mejorar la exp
 
 ## 📂 Estructura del proyecto
 
+```txt
 ├── public/ # Archivos públicos (imágenes, íconos, etc.)
 ├── src/
 │ ├── components/ # Componentes reutilizables
@@ -34,3 +35,4 @@ Actualmente **en desarrollo** con actualizaciones constantes para mejorar la exp
 │ ├── pages/ # Páginas del sitio
 │ └── styles/ # Estilos globales
 └── README.md # Este archivo
+```
