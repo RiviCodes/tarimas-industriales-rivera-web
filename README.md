@@ -6,6 +6,8 @@ Sitio web en desarrollo de **Tarimas Industriales Rivera**, empresa con más de 
 
 [![Deploy con Vercel](https://img.shields.io/badge/deploy-Vercel-blue?logo=vercel)](https://tarimas-industriales-rivera-web.vercel.app)
 
+**URL:** [https://tarimas-industriales-rivera-web.vercel.app](https://tarimas-industriales-rivera-web.vercel.app)
+
 ## 📌 Descripción
 
 Este proyecto es un sitio web corporativo desarrollado para presentar los servicios, productos y valores de **Tarimas Industriales Rivera**, así como facilitar el contacto con clientes actuales y potenciales.
