@@ -24,6 +24,7 @@ Brindar a nuestros clientes una experiencia en línea clara y accesible, mostran
 - [Tailwind CSS](https://tailwindcss.com/) — Framework CSS para estilos rápidos y consistentes.
 - HTML5 y CSS3.
 - JavaScript.
+- Deploy en [Vercel](https://vercel.com/)
 
 ## 🚀 Estado del proyecto
 
