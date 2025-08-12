@@ -1,10 +1,14 @@
 # 🌲 Tarimas Industriales Rivera
 
+![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+[![Deploy con Vercel](https://img.shields.io/badge/deploy-Vercel-blue?logo=vercel)](https://tarimas-industriales-rivera-web.vercel.app)
+
 Sitio web en desarrollo de **Tarimas Industriales Rivera**, empresa con más de 20 años de experiencia en la fabricación de tarimas y pallets de madera de alta calidad.
 
 ## 🚀 Demo en línea
-
-[![Deploy con Vercel](https://img.shields.io/badge/deploy-Vercel-blue?logo=vercel)](https://tarimas-industriales-rivera-web.vercel.app)
 
 **URL:** [https://tarimas-industriales-rivera-web.vercel.app](https://tarimas-industriales-rivera-web.vercel.app)
 
