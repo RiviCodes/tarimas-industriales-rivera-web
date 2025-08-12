@@ -1,6 +1,6 @@
 # 🌲 Tarimas Industriales Rivera
 
-Sitio web oficial de **Tarimas Industriales Rivera**, empresa con más de 20 años de experiencia en la fabricación de tarimas y pallets de madera de alta calidad.
+Sitio web en desarrollo de **Tarimas Industriales Rivera**, empresa con más de 20 años de experiencia en la fabricación de tarimas y pallets de madera de alta calidad.
 
 ## 📌 Descripción
 
