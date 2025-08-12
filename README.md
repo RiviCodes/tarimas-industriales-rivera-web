@@ -1,43 +1,36 @@
-# Astro Starter Kit: Minimal
+# 🌲 Tarimas Industriales Rivera
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Sitio web oficial de **Tarimas Industriales Rivera**, empresa con más de 20 años de experiencia en la fabricación de tarimas y pallets de madera de alta calidad.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📌 Descripción
 
-## 🚀 Project Structure
+Este proyecto es un sitio web corporativo desarrollado para presentar los servicios, productos y valores de **Tarimas Industriales Rivera**, así como facilitar el contacto con clientes actuales y potenciales.
 
-Inside of your Astro project, you'll see the following folders and files:
+## 🎯 Objetivo
 
-```text
-/
-├── public/
+Brindar a nuestros clientes una experiencia en línea clara y accesible, mostrando:
+
+- Nuestra experiencia en la industria.
+- La calidad y puntualidad en cada entrega.
+- Canales de contacto directos para cotizaciones y pedidos.
+
+## 🛠️ Tecnologías utilizadas
+
+- [Astro](https://astro.build/) — Generador de sitios estáticos.
+- [Tailwind CSS](https://tailwindcss.com/) — Framework CSS para estilos rápidos y consistentes.
+- HTML5 y CSS3.
+- JavaScript.
+
+## 🚀 Estado del proyecto
+
+Actualmente **en desarrollo** con actualizaciones constantes para mejorar la experiencia visual y funcional del sitio.
+
+## 📂 Estructura del proyecto
+
+├── public/ # Archivos públicos (imágenes, íconos, etc.)
 ├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+│ ├── components/ # Componentes reutilizables
+│ ├── layouts/ # Layouts principales
+│ ├── pages/ # Páginas del sitio
+│ └── styles/ # Estilos globales
+└── README.md # Este archivo
