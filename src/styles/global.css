@@ -7,3 +7,10 @@
 body {
   font-family: "Inter", sans-serif;
 }
+
+@layer base {
+  html,
+  body {
+    overflow-x: clip;
+  }
+}
