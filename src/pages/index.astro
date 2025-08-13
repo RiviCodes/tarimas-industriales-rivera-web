@@ -4,9 +4,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 <BaseLayout>
   <!-- Hero -->
-  <section class="max-w-7xl mx-auto flex flex-col items-center">
+  <!-- max-w-7xl -->
+  <section class="container mx-auto">
     <div
-      class="relative bg-cover bg-center min-h-[80vh] w-full"
+      class="relative bg-cover bg-center bg-no-repeat w-full min-h-[80dvh] overflow-hidden"
       style="background-image: url('/img/hero.webp')"
     >
       <div class="absolute inset-0 bg-black/40"></div>
@@ -14,7 +15,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       <div
         class="relative z-10 mx-auto max-w-2xl px-4 min-h-[80dvh] flex flex-col items-center justify-center text-center"
       >
-        <h1 class="text-4xl sm:text-5xl font-bold text-white/90">
+        <h1
+          id="hero-title"
+          class="text-4xl sm:text-5xl font-bold text-white/90"
+        >
           Fabricamos tarimas y pallets con calidad garantizada
         </h1>
 
@@ -24,5 +28,22 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         </p>
       </div>
     </div>
+  </section>
+
+  <section class="bg-[#f5e1ce] py-20 flex flex-col items-center">
+    <img src="/img/wood.webp" alt="Trozo de madera" class="max-w-3xs py-6" />
+    <h2 class="text-4xl text-center text-gray-800 py-7 w-100">
+      La <span class="font-semibold">experiencia</span> nos resplada
+    </h2>
+    <p class="text-xl md:text-lg text-center text-gray-700 px-12 md:px-20">
+      Contamos con <span class="font-semibold">
+        más de 20 años de experiencia
+      </span>
+      en la fabricación de tarimas, pallets y productos derivados de la madera. Nos
+      distinguimos por nuestra <span class="font-semibold"
+        >puntualidad, calidad y precios competitivos</span
+      >. Brindamos asesoría personalizada y un servicio confiable, respaldado
+      por nuestra trayectoria y compromiso con la satisfacción de cada cliente.
+    </p>
   </section>
 </BaseLayout>
