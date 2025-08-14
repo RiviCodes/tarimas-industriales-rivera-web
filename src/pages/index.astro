@@ -4,7 +4,6 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 <BaseLayout>
   <!-- Hero -->
-
   <section
     class="relative min-h-[80dvh] w-full bg-cover bg-center bg-no-repeat"
     style="background-image: url('/img/hero.webp')"
@@ -28,6 +27,17 @@ import BaseLayout from "../layouts/BaseLayout.astro";
           Más de 20 años de experiencia en soluciones de madera para la
           industria.
         </p>
+
+        <!-- CTA Button -->
+        <div class="mt-8 flex justify-center">
+          <a
+            href="/contacto"
+            class="mt-4 inline-flex min-h-11 touch-manipulation items-center justify-center rounded-4xl bg-[#8e5925]/90 px-8 py-3 text-lg font-semibold text-white/90 shadow-sm outline-1 outline-offset-3 outline-white/90 transition hover:bg-white/90 hover:text-[#513315] focus-visible:ring-2 focus-visible:ring-white focus-visible:outline-none active:scale-[.98]"
+            aria-label="Ir a la página de Contacto"
+          >
+            Contactar
+          </a>
+        </div>
       </div>
     </div>
   </section>
