@@ -1,16 +1,12 @@
 @import "tailwindcss";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body {
-  font-family: "Inter", sans-serif;
-}
-
 @layer base {
   html,
   body {
     overflow-x: clip;
   }
+}
+
+@theme {
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
 }
